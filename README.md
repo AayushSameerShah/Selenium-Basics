@@ -7,4 +7,6 @@ This repository contains the **jupyter** books with ***human redable*** concepts
 ## 🧭 Navigation
 There is a folder "referance_images" which contains the images used in the books. So you might don't want to look there. **Start** with the `1.` book and go from there in sequence till `7.`. 
 
-Thanks!
+<br> <br>
+Thanks! <br>
+**Aayush** ∞ **Shah**
